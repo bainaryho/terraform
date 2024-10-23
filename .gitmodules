@@ -1,0 +1,3 @@
+[submodule "DJANGO_APP_DRF"]
+	path = DJANGO_APP_DRF
+	url = https://github.com/bainaryho/DJANGO_APP_DRF.git
